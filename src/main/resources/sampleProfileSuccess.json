@@ -1,0 +1,57 @@
+[
+  {
+    "name": "F",
+    "month": "FEB",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "JAN",
+    "fraction": "0"
+  },
+  {
+    "name": "F",
+    "month": "MAR",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "APR",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "MAY",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "JUN",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "AUG",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "SEP",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "OCT",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "NOV",
+    "fraction": "0.1"
+  },
+  {
+    "name": "F",
+    "month": "DEC",
+    "fraction": "0.1"
+  }
+]

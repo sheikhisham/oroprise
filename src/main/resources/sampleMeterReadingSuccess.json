@@ -1,0 +1,74 @@
+[
+  {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "JAN",
+    "reading" : 0
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "FEB",
+    "reading" : 12
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "MAR",
+    "reading" : 24
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "APR",
+    "reading" : 36
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "MAY",
+    "reading" : 48
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "JUN",
+    "reading" : 60
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "JUL",
+    "reading" : 60
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "AUG",
+    "reading" : 72
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "SEP",
+    "reading" : 84
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "OCT",
+    "reading" : 96
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "NOV",
+    "reading" : 108
+  },
+    {
+    "connectionId": "0001",
+    "profileName": "F",
+    "month": "DEC",
+    "reading" : 120
+  }
+]  
